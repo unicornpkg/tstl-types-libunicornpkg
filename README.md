@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repository is in the process of being moved to [the main libunicornpkg repository](https://github.com/unicornpkg/libunicornpkg).
+ 
 # TypeScript to Lua transpiler types for libunicornpkg
 
 Provides hooks into TypeScript's typing system for use with the [TypeScript to Lua transpiler](https://typescripttolua.github.io).
