@@ -1,5 +1,5 @@
 > [!NOTE]
-> This repository is in the process of being moved to [the main libunicornpkg repository](https://github.com/unicornpkg/libunicornpkg).
+> This has been moved to [the main libunicornpkg repository](https://github.com/unicornpkg/libunicornpkg).
  
 # TypeScript to Lua transpiler types for libunicornpkg
 
